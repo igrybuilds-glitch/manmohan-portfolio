@@ -1,0 +1,6 @@
+{
+  "name": "IGRYbuilds - Manmohan | Digital Systems & AI Portfolio",
+  "description": "Interactive Minecraft-inspired cinematic 3D voxel portfolio hero for Manmohan, Founder of IGRYbuilds and Co-Founder of Kruzoe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
